@@ -1,0 +1,14 @@
+{
+  "name": "wtwug6--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@vkontakte/vk-bridge": "^2.4.9",
+    "@vkontakte/vkui": "latest",
+    "axios": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "5.2.2",
+    "redux": "latest"
+  }
+}
