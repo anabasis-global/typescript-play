@@ -8,7 +8,8 @@
     "axios": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "5.2.2",
-    "redux": "latest"
+    "redux": "latest",
+    "tsx": "^3.12.8",
+    "typescript": "5.2.2"
   }
 }
